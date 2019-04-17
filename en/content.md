@@ -18,13 +18,13 @@ Below, you will find general information on using Scratch. If more preparation i
 
 ## Running Scratch: online vs offline
 
-**If you have internet connectivity at your meeting place**, you can run Scratch online in a web browser.
+**If you have internet connectivity at your meeting place**, you can run Scratch online in a web browser on desktop computer, laptop or tablet.
 
 Use the link given in the resource you’ll be working with to open the right Scratch starter project.
 
 **If you don’t have internet connectivity at your meeting place**, you’ll need to do two things ahead of the meeting, somewhere you have internet access:
 
-1. Download and install Scratch Desktop on the computer(s) you’ll be using. To do this, follow the instructions on the Scratch download page [rpf.io/scratch-off](http://rpf.io/scratch-off). Scratch Desktop can run on PCs and Macs, and is included in the default setup for Raspberry Pi computers.
+1. Download and install Scratch Desktop on the computer(s) you’ll be using. To do this, follow the instructions on the Scratch download page [rpf.io/scratch-off](http://rpf.io/scratch-off). Scratch Desktop can run on Windows PCs and Apple Macs, and is included in the default setup for Raspberry Pi computers.
 2. Download the Scratch starter project file using the link in the activity.
 
 When you’re ready to run the activity:

@@ -4,7 +4,7 @@ All contributions are assumed to be licensed under the same license as the sourc
 
 ## Issues
 
-If you find a mistake, bug or other problem, please [open an issue](https://github.com/raspberrypilearning/scouts-[activity]/issues) in this repository.
+If you find a mistake, bug or other problem, please [open an issue](https://github.com/raspberrypilearning/scouts-scratch/issues) in this repository.
 
 ## Pull Requests
 
